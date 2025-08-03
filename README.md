@@ -67,17 +67,6 @@ pip install -r requirements.txt
 
 (You can also run this project easily on **Google Colab**.)
 
-### 🚀 Run Training
-
-```bash
-python scripts/train.py
-```
-
-### 🖼️ Run Prediction
-
-```bash
-python scripts/predict.py
-```
 
 ## 🖥️ Directory Structure
 
