@@ -53,8 +53,11 @@ Implemented **from scratch** using TensorFlow and Keras, the model:
 - Helped identify edge prediction limitations
 
 ### ⚠️ Dataset Access:
-Due to size limitations, the dataset is not included in this repository.  
-👉 [Download CamVid Dataset](https://drive.google.com/uc?id=YOUR_FILE_ID) and place it in the `data/` directory.
+Due to size limitations, the dataset is not included in this repository. 
+file_id = "1nfUiaZ_e_HReJEdrD6Ivl5_80k2eLInH"
+
+url = f"https://drive.google.com/uc?id={file_id}"
+👉 [Download CamVid Dataset](https://drive.google.com/uc?id={file_id}) and place it in the `data/` directory.
 
 ## 🧪 Installation & Usage
 
