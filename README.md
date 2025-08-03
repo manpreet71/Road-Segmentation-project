@@ -54,8 +54,8 @@ Implemented **from scratch** using TensorFlow and Keras, the model:
 
 ### ⚠️ Dataset Access:
 Due to size limitations, the dataset is not included in this repository. 
-👉 [Download CamVid Dataset](https://drive.google.com/file/d/1nfUiaZ_e_HReJEdrD6Ivl5_80k2eLInH/view?usp=sharing) and place it in the `data/` directory.
 
+👉 [Download CamVid Dataset](https://drive.google.com/file/d/1nfUiaZ_e_HReJEdrD6Ivl5_80k2eLInH/view?usp=sharing)
 ## 🧪 Installation & Usage
 
 ### ✅ Requirements
