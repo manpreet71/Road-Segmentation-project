@@ -86,7 +86,7 @@ road-segmentation-project/
 |----------------|--------------|--------------------------|
 |<img width="375" height="396" alt="Screenshot 2025-08-06 184151" src="https://github.com/user-attachments/assets/3ed132ba-85a4-4698-b1fa-51eef8de7046" /> | <img width="374" height="397" alt="Screenshot 2025-08-06 184219" src="https://github.com/user-attachments/assets/5b16c34f-ed6b-4e92-b0ef-ffda0822ecbe" /> | <img width="379" height="397" alt="Screenshot 2025-08-06 184237" src="https://github.com/user-attachments/assets/545c029e-5340-438d-b12c-1c7da3bbd938" />|
 
-### Prediction o self-clicked images
+### Prediction on self-clicked images
 
 <img width="1456" height="495" alt="self_click_2" src="https://github.com/user-attachments/assets/34d07f4e-6c77-4855-bc49-046cbb162001" />
 
@@ -103,7 +103,6 @@ road-segmentation-project/
 
 - 👨‍🏫 **Dr. Sandeep Singh Sandha** (Ph.D. in AI, UCLA) for mentorship under *Punjab AI Excellence*
 - 📚 Open-source communities and forums for ongoing support
-- 🏫 Faculty of Khalsa College, Amritsar
 
 ## 📜 License
 
