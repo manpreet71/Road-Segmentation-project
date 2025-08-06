@@ -72,11 +72,9 @@ pip install -r requirements.txt
 
 ```
 road-segmentation-project/
-├── data/                # Placeholder for dataset
-├── notebooks/           # Jupyter notebooks
-├── src/                 # Source code (model, utils)
-├── scripts/             # Train and evaluate scripts
-├── outputs/             # Saved model, predictions
+├── download_dataset.py                             # Dataset download
+├── Road_segmentation_project.ipynb                 # Jupyter notebooks
+├── research_paper_unet_road_segmentation.pdf       # Research paper
 ├── requirements.txt
 ├── LICENSE
 └── README.md
