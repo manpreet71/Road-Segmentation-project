@@ -84,7 +84,11 @@ road-segmentation-project/
 
 | Original Image | Ground Truth | Prediction (Edge-Aware) |
 |----------------|--------------|--------------------------|
-| ![img1](outputs/sample1.png) | ![gt1](outputs/gt1.png) | ![pred1](outputs/pred1.png) |
+|<img width="375" height="396" alt="Screenshot 2025-08-06 184151" src="https://github.com/user-attachments/assets/3ed132ba-85a4-4698-b1fa-51eef8de7046" />|
+|<img width="374" height="397" alt="Screenshot 2025-08-06 184219" src="https://github.com/user-attachments/assets/5b16c34f-ed6b-4e92-b0ef-ffda0822ecbe" />|
+|<img width="379" height="397" alt="Screenshot 2025-08-06 184237" src="https://github.com/user-attachments/assets/545c029e-5340-438d-b12c-1c7da3bbd938" />|
+
+
 
 *(Add your own sample images above)*
 
