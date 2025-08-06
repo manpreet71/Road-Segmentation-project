@@ -86,9 +86,10 @@ road-segmentation-project/
 |----------------|--------------|--------------------------|
 |<img width="375" height="396" alt="Screenshot 2025-08-06 184151" src="https://github.com/user-attachments/assets/3ed132ba-85a4-4698-b1fa-51eef8de7046" /> | <img width="374" height="397" alt="Screenshot 2025-08-06 184219" src="https://github.com/user-attachments/assets/5b16c34f-ed6b-4e92-b0ef-ffda0822ecbe" /> | <img width="379" height="397" alt="Screenshot 2025-08-06 184237" src="https://github.com/user-attachments/assets/545c029e-5340-438d-b12c-1c7da3bbd938" />|
 
+<img width="1456" height="495" alt="self_click_2" src="https://github.com/user-attachments/assets/34d07f4e-6c77-4855-bc49-046cbb162001" />
 
+<img width="1460" height="499" alt="self_click_1" src="https://github.com/user-attachments/assets/54130e5c-b0f4-4d63-8a28-0d109a1224ac" />
 
-*(Add your own sample images above)*
 
 ## 💡 Future Work
 
