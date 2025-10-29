@@ -10,6 +10,7 @@ To solve this, I implemented a novel **edge-aware loss function**, improving **I
 
 Our findings were published as a preprint on ResearchGate, marking my 
 first academic publication and collaborative research during my undergraduate studies. 
+👉 [Publication Link](https://www.researchgate.net/publication/394251353_Road_Segmentation_System_Using_Deep_Learning_with_focused_Edge_Detection)
 
 ## 🎯 Objectives
 
