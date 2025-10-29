@@ -8,6 +8,9 @@ This project presents a robust **road segmentation model** using the **U-Net arc
 
 To solve this, I implemented a novel **edge-aware loss function**, improving **IoU from 87% to 92%**, and significantly enhancing edge clarity, making the model more **reliable in real-world scenarios**.
 
+Our findings were published as a preprint on ResearchGate, marking my 
+first academic publication and collaborative research during my undergraduate studies. 
+
 ## 🎯 Objectives
 
 - Perform **binary road segmentation** using the CamVid dataset.
